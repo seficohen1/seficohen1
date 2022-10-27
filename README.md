@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there I'm Sefi! 👋
 
-## Hi I'm Sefi!
 
 I am Sefi, Full stack MERN developer, passionate about technology, new places, food and getting to know new people. Love picking up new chellanges and always learn something new. Currently speaking and writing mostly in JavaScript.
 
